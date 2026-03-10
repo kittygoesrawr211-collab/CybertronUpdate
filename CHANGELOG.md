@@ -35,3 +35,8 @@
 ## v0.2.2
 1. os lock fix possibly
 
+
+## v0.2.3
+1. fixed bugs
+2. added folder watch
+
