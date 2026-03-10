@@ -49,3 +49,7 @@
 ## v0.2.6
 1. should fix the infinite loop
 
+
+## v0.2.7
+1. should speed up everything
+
