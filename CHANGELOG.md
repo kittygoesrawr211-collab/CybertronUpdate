@@ -27,3 +27,7 @@
 5. show vault location with re-authentication and 30 second auto-hide
 6. atomic rename with rollback protection
 
+
+## v0.2.1
+1. fixed crashing for v2.0
+

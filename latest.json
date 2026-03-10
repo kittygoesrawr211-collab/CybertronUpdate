@@ -1,6 +1,6 @@
 {
     "date":  "2026-03-10",
-    "download":  "releases/v0.2.0/CybertronVault-v0.2.0-Setup.exe",
-    "version":  "0.2.0",
-    "notes":  "1. v4 vault format with 48-byte obfuscation prefix\n2. merged audit, hmac and decoy manifest into single unrecognizable file\n3. random vault filename rotation on every launch\n4. encrypted vault map with backup and decoy maps\n5. show vault location with re-authentication and 30 second auto-hide\n6. atomic rename with rollback protection"
+    "download":  "releases/v0.2.1/CybertronVault-v0.2.1-Setup.exe",
+    "version":  "0.2.1",
+    "notes":  "1. fixed crashing for v2.0"
 }
