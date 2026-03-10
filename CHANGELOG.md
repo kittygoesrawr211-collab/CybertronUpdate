@@ -53,3 +53,7 @@
 ## v0.2.7
 1. should speed up everything
 
+
+## v0.2.8
+1. increase speed
+
