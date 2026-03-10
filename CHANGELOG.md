@@ -45,3 +45,7 @@
 1. 2bugs fixes
 2. animation to themes
 
+
+## v0.2.6
+1. should fix the infinite loop
+
