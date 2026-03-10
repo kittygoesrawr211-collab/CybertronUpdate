@@ -2,8 +2,8 @@
 
 ## How to Install
 1. Go to the **releases** folder
-2. Open the latest version folder (e.g. ``v0.2.1``)
-3. Download and run **CybertronVault-v0.2.1-Setup.exe**
+2. Open the latest version folder (e.g. ``v0.2.2``)
+3. Download and run **CybertronVault-v0.2.2-Setup.exe**
 4. Follow the installer
 
 ## Changelog

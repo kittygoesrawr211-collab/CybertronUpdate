@@ -31,3 +31,7 @@
 ## v0.2.1
 1. fixed crashing for v2.0
 
+
+## v0.2.2
+1. os lock fix possibly
+
