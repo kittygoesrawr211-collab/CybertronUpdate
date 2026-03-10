@@ -1,6 +1,6 @@
 {
     "date":  "2026-03-09",
-    "download":  "releases/v0.1.16/CybertronVault-v0.1.16-Setup.exe",
-    "version":  "0.1.16",
-    "notes":  "1. red theme"
+    "download":  "releases/v0.1.17/CybertronVault-v0.1.17-Setup.exe",
+    "version":  "0.1.17",
+    "notes":  "1. honeypot decoys\n2. hidden storage\n3. os file locking\n4. tamper alert modal\n5. shadow copies"
 }
