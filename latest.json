@@ -1,6 +1,6 @@
 {
     "date":  "2026-03-10",
-    "download":  "releases/v0.2.3/CybertronVault-v0.2.3-Setup.exe",
-    "version":  "0.2.3",
-    "notes":  "1. fixed bugs\n2. added folder watch"
+    "download":  "releases/v0.2.5/CybertronVault-v0.2.5-Setup.exe",
+    "version":  "0.2.5",
+    "notes":  "1. 2bugs fixes\n2. animation to themes"
 }

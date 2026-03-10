@@ -40,3 +40,8 @@
 1. fixed bugs
 2. added folder watch
 
+
+## v0.2.5
+1. 2bugs fixes
+2. animation to themes
+
