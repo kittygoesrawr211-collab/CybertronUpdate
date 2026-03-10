@@ -57,3 +57,7 @@
 ## v0.2.8
 1. increase speed
 
+
+## v0.3.1
+1. self diagnose system
+

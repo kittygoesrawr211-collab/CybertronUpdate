@@ -1,6 +1,6 @@
 {
     "date":  "2026-03-10",
-    "download":  "releases/v0.2.8/CybertronVault-v0.2.8-Setup.exe",
-    "version":  "0.2.8",
-    "notes":  "1. increase speed"
+    "download":  "releases/v0.3.1/CybertronVault-v0.3.1-Setup.exe",
+    "version":  "0.3.1",
+    "notes":  "1. self diagnose system"
 }
