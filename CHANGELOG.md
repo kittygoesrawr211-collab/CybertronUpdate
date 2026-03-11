@@ -77,3 +77,7 @@
 ## v0.3.4
 1. should be faster now
 
+
+## v0.3.5
+1. bug fix
+
