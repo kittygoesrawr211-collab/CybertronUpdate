@@ -1,6 +1,6 @@
 {
     "date":  "2026-03-11",
-    "download":  "releases/v0.0.2/CybertronVault-v0.0.2-Setup.exe",
-    "version":  "0.0.2",
-    "notes":  "1. adaptive chunks\n2. visualupgrades"
+    "download":  "releases/v0.0.4/CybertronVault-v0.0.4-Setup.exe",
+    "version":  "0.0.4",
+    "notes":  "1. fixed auto updater"
 }

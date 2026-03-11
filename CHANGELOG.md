@@ -114,3 +114,7 @@
 1. adaptive chunks
 2. visualupgrades
 
+
+## v0.0.4
+1. fixed auto updater
+
