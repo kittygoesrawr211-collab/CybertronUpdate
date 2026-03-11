@@ -118,3 +118,7 @@
 ## v0.0.4
 1. fixed auto updater
 
+
+## v0.0.5
+1. autoupdate fix
+
