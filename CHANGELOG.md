@@ -109,3 +109,8 @@
 ## v0.0.1
 1. beginning
 
+
+## v0.0.2
+1. adaptive chunks
+2. visualupgrades
+
