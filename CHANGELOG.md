@@ -85,3 +85,7 @@
 ## v0.3.6
 1. should be faster now
 
+
+## v1.0.1
+1. switch front end
+
