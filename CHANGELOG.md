@@ -73,3 +73,7 @@
 ## v0.3.3
 1. major speed ups
 
+
+## v0.3.4
+1. should be faster now
+
